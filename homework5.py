@@ -13,5 +13,4 @@ while(x!=y):
         x=eval(input(""))
 else:
     print("预测{}次，你猜中了！".format(i))
-print("I like zhbit")
-print("我是大帅哥")
+
